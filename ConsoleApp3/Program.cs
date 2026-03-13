@@ -17,10 +17,5 @@ class Program
         double product = a * b;
         double quotient = a / b;
 
-        // Вывод результатов
-        Console.WriteLine($"\nСумма: {sum}");
-        Console.WriteLine($"Разность: {difference}");
-        Console.WriteLine($"Произведение: {product}");
-        Console.WriteLine($"Частное: {quotient}");
     }
 }
