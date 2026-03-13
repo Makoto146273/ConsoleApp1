@@ -4,9 +4,7 @@ class Program
 {
     static void Main()
     {
-        // Ввод двух чисел
-        Console.Write("Введите первое число: ");
-        double a = Convert.ToDouble(Console.ReadLine());
+
 
         Console.Write("Введите второе число: ");
         double b = Convert.ToDouble(Console.ReadLine());
